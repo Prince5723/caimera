@@ -11,7 +11,7 @@ export default function Home() {
     <div className="absolute top-0 left-0 w-full h-full">
     <HeroParallaxDemo />
     <TextHoverEffectDemo/>
-    <div className="-mt-17">
+    <div className="">
     <InfiniteMovingCardsDemo/>
     </div>
     <HowItWorks/>
